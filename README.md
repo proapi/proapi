@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/michal-pawelski"><img src="https://img.shields.io/badge/-LinkedIn-000?logo=Linkedin" alt="LinkedIn"/></a>
 </p>
 <p align="center">
-    <a href="https://proapi.eu"><img src="https://img.shields.io/badge/-LinkedIn-000?logo=Linkedin" alt="LinkedIn"/></a>
+    <a href="https://proapi.eu"><img src="https://img.shields.io/badge/-Website-000" alt="Website"/></a>
 </p>
 
 ---
